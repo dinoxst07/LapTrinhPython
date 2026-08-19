@@ -92,7 +92,7 @@ print(bien, type(bien))
 
 print(f"----------------------------")
 print(f"Hoat dong 6.2: ")
-ho_ten = "Nguyen Van A"
+ho_ten = "Dinh Tan Quoc"
 diem_toan = 8.0
 diem_ly = 7.5
 diem_hoa = 9.0
